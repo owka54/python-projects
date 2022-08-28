@@ -1,0 +1,5 @@
+Calculate the area of a triangle
+
+• Will need input from the user, need the height and base values.
+• Might want to use "float" to be more precise in the calculations
+• Area = (1/2 times base times height) (1/2 * B * H)

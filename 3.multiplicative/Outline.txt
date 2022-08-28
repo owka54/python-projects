@@ -1,0 +1,6 @@
+Create a multiplicative for a specific number.
+
+• (Create a multiplication table for one number at a time)
+	- Go up to 12 (1 x 1; 1 x 2; 1 x 3; 1 x4; etc...)
+• Will want to use a loop for this one
+• Will need user input to populate the variables

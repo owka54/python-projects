@@ -1,0 +1,6 @@
+Pick a random word out of a word list
+
+• Won’t need user input, but will need to either create a word list from code, or scratch (simple
+text file)
+• Remember how to open files for reading
+• Will need some randomness in there somehow – (import random)

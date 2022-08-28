@@ -1,0 +1,6 @@
+Create a simple calculator program.
+
+• Need to have a way to input data into the program from user input.
+	- 2 numbers and an operator
+• Might be easier to create functions we can call?
+• Think about using the IF, ELIF statements we discussed

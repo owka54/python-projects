@@ -1,0 +1,5 @@
+Create a dice rolling game
+
+• Won’t need user input this time if you don’t want (not necessary)
+• Think about a while loop maybe?
+• Seems like a good place for an IF and ELSE statement

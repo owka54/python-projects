@@ -1,0 +1,27 @@
+Bed
+Table
+Chair
+Desk
+Computer
+Fan
+Keyboard
+Mouse
+Monitor
+Laptop
+Phone
+Speaker
+Earphones
+Sunglasses
+Box
+Light
+Window
+Curtains
+Helmet
+Water
+Tea
+Jack Daniels
+Watch
+Remote
+Xbox
+TV
+Sweets

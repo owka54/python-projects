@@ -1,0 +1,7 @@
+Create a Rock, Paper, Scissors game
+
+• Will need user input
+• 2 players
+• Will need to use some IF, ELIF statements for decision making
+• Print to the screen
+• Think about how you want to compare the player selections

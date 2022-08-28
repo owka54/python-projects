@@ -1,0 +1,5 @@
+Create a program that takes a word list and puts it in alphabetically order
+
+• Like before - need user input
+• Don't forget about the sort() function
+• You can print them in a list or each word on a line
